@@ -13,4 +13,4 @@
  <li><strong>sender email password</strong> 
  <li><strong>receiver email</strong>  
  </ul>
- # Note: Before using the app...please <strong>'Allow less secure apps'</strong> in the <strong>'Security'</strong> section of the <strong> 'sender's email-id'</strong>
+ <strong>Note:</strong> Before using the app...please <strong>'Allow less secure apps'</strong> in the <strong>'Security'</strong> section of the <strong> 'sender's email-id'</strong>
