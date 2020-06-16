@@ -3,7 +3,9 @@
  # Requirements:
  Go in command shell and type:
  <br>
- <strong>pip install requests bs4</strong><br>
+ ```bash
+ pip install requests bs4
+ ```
  After this open the code in an editor and fill the following the inputs:
  <ul>
  <li><strong>URL</strong> 
