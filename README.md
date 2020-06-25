@@ -4,7 +4,7 @@
  Go in command shell and type:
  <br>
  ```bash
- pip install requests bs4
+ $ pip install requests bs4
  ```
  After this open the code in an editor and fill the following the inputs:
  <ul>
